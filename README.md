@@ -16,12 +16,9 @@
 
 3. 輸入基本資料
 
-Enter your enail：信箱
-
-Create a password：密碼
-
-Enter your username：使用者名稱
-
-y/n：是問要不要寄信到你的信箱，不要就寫n
+Enter your enail：信箱  
+Create a password：密碼  
+Enter your username：使用者名稱  
+y/n：是問要不要寄信到你的信箱，不要就寫n  
 
 ![image](https://user-images.githubusercontent.com/126373882/221600604-0263b6b9-a2d6-4413-9508-febf84d85504.png)
