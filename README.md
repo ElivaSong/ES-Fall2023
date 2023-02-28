@@ -16,9 +16,12 @@
 
 3. 輸入基本資料
 
-Enter your enail：信箱  
-Create a password：密碼  
-Enter your username：使用者名稱  
-y/n：是問要不要寄信到你的信箱，不要就寫n  
+![GitHub註冊資料](https://user-images.githubusercontent.com/126373882/221871065-e030e43c-6107-43e7-9fc5-70b89a9492ed.jpg)
 
-![image](https://user-images.githubusercontent.com/126373882/221600604-0263b6b9-a2d6-4413-9508-febf84d85504.png)
+按下Continue後進行驗證 > 接下來會發mail驗證信到你的信箱，將信箱的驗證碼輸入即可。
+
+![image](https://user-images.githubusercontent.com/126373882/221868599-b031129a-47af-4045-a29a-80e02699bbd1.png)
+
+依照個人自行選擇，下面問你是學生或老師
+
+![image](https://user-images.githubusercontent.com/126373882/221867733-5617e2a5-f092-4920-90bb-b0a0b121e59c.png)
