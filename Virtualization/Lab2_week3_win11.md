@@ -32,14 +32,27 @@
 <a name="333"/>
 
 ### Windows 11安裝步驟：
+1. 開啟VMware Workstation Player。
 
-1.  
-![w11-1](https://user-images.githubusercontent.com/126373882/227756631-75e8fbb1-2ecc-45b3-8547-45a07775df47.jpg)
+![image](https://user-images.githubusercontent.com/126373882/227761068-b34250e9-92b4-4c5b-84b5-bcaac9048244.png)
 
-2. 
-![w11-2](https://user-images.githubusercontent.com/126373882/227756662-9efa9bc4-335b-427b-8224-8adb98b5ca1c.jpg)
+2. 點選「Create a New Virtual Machine」。
+<div align="p3">
+     <img 
+      src="https://user-images.githubusercontent.com/126373882/227756631-75e8fbb1-2ecc-45b3-8547-45a07775df47.jpg" 
+      width="50%" height="50%">
+    </div>
 
-3. 
+3. 選擇「Installer disk image file (iso)」，點選「Browse…」。  
+   選擇Windows 11光碟ISO映像檔，點選「開啟」。
+<div align="p4">
+     <img 
+      src="https://user-images.githubusercontent.com/126373882/227756662-9efa9bc4-335b-427b-8224-8adb98b5ca1c.jpg" 
+      width="80%" height="75%">
+    </div>
+
+4. 點選「Next」。
+
 ![w11-3](https://user-images.githubusercontent.com/126373882/227756676-b41e418a-af97-4f9d-b681-89975de4ca77.jpg)
 
 4. 
