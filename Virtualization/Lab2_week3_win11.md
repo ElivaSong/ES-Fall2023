@@ -35,6 +35,19 @@ Windows 11 ISO Downloads：https://www.microsoft.com/zh-tw/software-download/win
 9. 
 ![w11-9](https://user-images.githubusercontent.com/126373882/227756761-38b4a6a3-386f-4b2e-a00a-b864881f8e04.jpg)
 
+10. 
+![w11-10](https://user-images.githubusercontent.com/126373882/227757883-9f9968f5-b27d-458b-a1be-402cb0cfe8e1.jpg)
+
+11. 
+![w11-11](https://user-images.githubusercontent.com/126373882/227757899-ad443330-8d0b-47c6-a798-101bcf91e822.jpg)
+
+12. 
+![w11-12](https://user-images.githubusercontent.com/126373882/227757908-faf9da8e-2e7f-41f5-ace3-42ca880f286b.jpg)
+
+13. 
+![w11-13](https://user-images.githubusercontent.com/126373882/227757918-2e970685-9867-4943-8deb-fa237d9e4407.jpg)
+
+
 
 
 
