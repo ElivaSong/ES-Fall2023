@@ -1,26 +1,37 @@
+<a name="000"/>
+
 # 使用VMWare安裝Windows 11
 
 ## 目錄
-- [我的電腦配置](#我的電腦配置)
-- [Windows 11 ISO檔下載](#Windows 11 ISO Downloads)
-- [VM安裝WIN11步驟](#Windows 11安裝步驟)
+- [我的電腦配置](#111)
+- [Windows 11 ISO檔下載](#222)
+- [VM安裝WIN11步驟](#333)
+
+<a name="111"/>
 
 ### 我的電腦配置：
+
 <div align="p1">
      <img 
       src="https://user-images.githubusercontent.com/126373882/227756346-65945d41-c69f-4380-bdf7-77136d518d4c.jpg" 
       width="75%" height="75%">
     </div>
 
-### Windows 11安裝步驟：
+<a name="222"/>
+
+## Windows 11 ISO檔下載：
+
 > Windows 11 ISO Downloads：https://www.microsoft.com/zh-tw/software-download/windows11
 
 <div align="p2">
      <img 
       src="https://user-images.githubusercontent.com/126373882/226158422-b925a321-1e6c-49d5-ab34-ad82a99c48a7.jpg" 
-      width="75%" height="75%">
+      width="60%" height="60%">
     </div>
-![0319-1](https://user-images.githubusercontent.com/126373882/226158422-b925a321-1e6c-49d5-ab34-ad82a99c48a7.jpg)
+
+<a name="333"/>
+
+### Windows 11安裝步驟：
 
 1.  
 ![w11-1](https://user-images.githubusercontent.com/126373882/227756631-75e8fbb1-2ecc-45b3-8547-45a07775df47.jpg)
@@ -68,4 +79,5 @@
 
 ![image](https://user-images.githubusercontent.com/126373882/226159411-c200bdf6-9ae4-41ae-80f9-292973a572be.png)
 
-[TOP](#TOP)
+
+[TOP](#000)
