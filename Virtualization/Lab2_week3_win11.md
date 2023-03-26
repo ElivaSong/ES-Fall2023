@@ -12,10 +12,14 @@
       width="75%" height="75%">
     </div>
 
-
 ### Windows 11安裝步驟：
 > Windows 11 ISO Downloads：https://www.microsoft.com/zh-tw/software-download/windows11
 
+<div align="p2">
+     <img 
+      src="https://user-images.githubusercontent.com/126373882/226158422-b925a321-1e6c-49d5-ab34-ad82a99c48a7.jpg" 
+      width="75%" height="75%">
+    </div>
 ![0319-1](https://user-images.githubusercontent.com/126373882/226158422-b925a321-1e6c-49d5-ab34-ad82a99c48a7.jpg)
 
 1.  
