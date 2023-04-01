@@ -55,22 +55,32 @@
 
 ![w11-3](https://user-images.githubusercontent.com/126373882/227756676-b41e418a-af97-4f9d-b681-89975de4ca77.jpg)
 
-4. 
+4. 輸入自訂的虛擬機器名稱；Location為預設儲存路徑，若需變更請點選「Browse…」。
+
 ![w11-4](https://user-images.githubusercontent.com/126373882/227756702-ffce0fcd-ffc9-43b9-b125-49e3c4c2b66d.jpg)
 
-5. 
+5. 使用預設的選項，輸入自訂的密碼，點選「Next」，啟用encrypted Trusted Platform Module（信賴平台模組，縮寫：TPM）。
+
 ![w11-5](https://user-images.githubusercontent.com/126373882/227756714-15b3792e-3aa4-4200-a940-349b1fdc75ce.jpg)
 
-6. 
+6. 自訂虛擬硬碟的大小，選擇「Store virtual disk as a single files」，將虛擬硬碟儲存為單一檔案，點選「Next」。
+
 ![w11-6](https://user-images.githubusercontent.com/126373882/227756738-a43b7c0a-8901-4872-8646-9e6b8429976a.jpg)
 
-7. 
+7. 點選「Customize Hardware…」。
+
 ![w11-7](https://user-images.githubusercontent.com/126373882/227756746-5e2c8aa1-c672-404a-97ff-c161871bbab7.jpg)
 
-8. 
-![w11-8](https://user-images.githubusercontent.com/126373882/227756750-c61dc26d-80bb-4d2b-9de0-381eccbea734.jpg)
+8. 在「Memory」的選項，調整記憶體至適當的大小〈建議為實體記憶體的1/3 - 1/2之間〉。
 
-9. 
+<div align="p4">
+     <img 
+      src="https://user-images.githubusercontent.com/126373882/227756750-c61dc26d-80bb-4d2b-9de0-381eccbea734.jpg" 
+      width="50%" height="50%">
+    </div>
+
+9. 在「Processors」的選項，選擇CPU的核心數。
+
 ![w11-9](https://user-images.githubusercontent.com/126373882/227756761-38b4a6a3-386f-4b2e-a00a-b864881f8e04.jpg)
 
 10. 
