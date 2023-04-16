@@ -101,15 +101,35 @@
 
 ![w11-13](https://user-images.githubusercontent.com/126373882/232273187-16a4ad1b-cf4e-47b3-a40d-c401f73a19df.jpg)
 
+16. 選W11 Pro → Next。
 
-<div align="p5">
-     <img 
-      src="https://user-images.githubusercontent.com/126373882/232273187-16a4ad1b-cf4e-47b3-a40d-c401f73a19df.jpg" 
-      width="50%" height="70%">
-    </div>
+![w11-14](https://user-images.githubusercontent.com/126373882/232273325-468f24a4-dfb0-4ad6-86a7-b8eed32b3691.jpg)
+
+17. 勾選同意 → Next。
+
+![w11-15](https://user-images.githubusercontent.com/126373882/232273416-da9c22e5-afb8-44c7-b710-a40327757b9c.jpg)
+
+18. 選第一個 Upgrade:......
+
+![w11-16](https://user-images.githubusercontent.com/126373882/232273628-594592b1-1d49-4d23-838a-beb1d9bd98c0.jpg)
+
+19. 選New → Size：61440 → Apply
+
+![w11-18](https://user-images.githubusercontent.com/126373882/232273818-0cb88c37-8e9e-4b6d-b866-226defc434a8.jpg)
+
+
+
+
+
+
+
 
 
 Windows 11已經安裝完成，如下圖所示。
+
+![w11-37](https://user-images.githubusercontent.com/126373882/232274036-04e5e918-1f6f-420a-891c-cf33825e9489.jpg)
+
+
 <div align="p5">
      <img 
       src="https://user-images.githubusercontent.com/126373882/227757908-faf9da8e-2e7f-41f5-ace3-42ca880f286b.jpg" 
