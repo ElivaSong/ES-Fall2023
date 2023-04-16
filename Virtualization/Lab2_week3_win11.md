@@ -6,6 +6,7 @@
 - [我的電腦配置](#111)
 - [Windows 11 ISO檔下載](#222)
 - [VM安裝WIN11步驟](#333)
+- [將系統環境英文改為中文](#444)
 
 <a name="111"/>
 
@@ -113,28 +114,70 @@
 
 ![w11-16](https://user-images.githubusercontent.com/126373882/232273628-594592b1-1d49-4d23-838a-beb1d9bd98c0.jpg)
 
-19. 選New → Size：61440 → Apply
+19. 選New → Size：61440 → Apply → OK → Next
 
 ![w11-18](https://user-images.githubusercontent.com/126373882/232273818-0cb88c37-8e9e-4b6d-b866-226defc434a8.jpg)
 
+![w11-19](https://user-images.githubusercontent.com/126373882/232279102-dbf9f797-ec13-4918-a273-64febf8e5a0d.jpg)
 
+![w11-20](https://user-images.githubusercontent.com/126373882/232279166-10cb13d9-edeb-4cd0-b9f3-114b9f3b34e2.jpg)
 
+20. 建立中
 
+![w11-22](https://user-images.githubusercontent.com/126373882/232279264-7cfe7010-290b-487e-808f-2090b312d3e7.jpg)
 
+21. 選擇國家 → 鍵盤設定(也可先Skip後面再設定)。
 
+![w11-23](https://user-images.githubusercontent.com/126373882/232279292-8158636f-8c6a-4040-9141-f51437a70fef.jpg)
 
+![w11-24](https://user-images.githubusercontent.com/126373882/232279298-4209795d-52a5-4be8-ab30-313224167d2e.jpg)
+
+![w11-25](https://user-images.githubusercontent.com/126373882/232279536-5e1a3222-d905-4f03-83de-5bd9f5777c88.jpg)
+
+![w11-26](https://user-images.githubusercontent.com/126373882/232279457-cb86403f-477c-47c8-bdf8-b9219667e5e5.jpg)
+
+22. 選擇設置：Set up for personal use (個人) / Set up for work or school (工作or學校)
+
+![w11-28](https://user-images.githubusercontent.com/126373882/232279606-dc4295ba-9c12-4423-85df-b82b485e60bc.jpg)
+
+23. 登入Microsoft帳號 / 密碼
+
+![w11-29-1](https://user-images.githubusercontent.com/126373882/232280179-cf6708a5-9102-42bc-916f-1ca27e74531e.jpg)
+
+![w11-30-1](https://user-images.githubusercontent.com/126373882/232280189-9676168f-815e-4927-ba9c-6aba72d31f2b.jpg)
+
+24. 設定密碼
+
+![w11-32](https://user-images.githubusercontent.com/126373882/232280070-39715ffd-7206-484a-8530-17fb211f2b76.jpg)
+
+25. Next → Next → Skip → Next
+
+![w11-33](https://user-images.githubusercontent.com/126373882/232280287-d5b04af4-64c5-4a8f-94df-e536acef66bf.jpg)
+
+![w11-34](https://user-images.githubusercontent.com/126373882/232280292-f09d4a71-cb5a-4748-82c5-241b60aec7e4.jpg)
+
+![w11-35](https://user-images.githubusercontent.com/126373882/232280299-e1ec224f-60da-4518-81ee-5aa240ab7f83.jpg)
+
+![w11-36](https://user-images.githubusercontent.com/126373882/232280304-39c8b9c0-9fac-4a58-83ae-fd792d0b6a06.jpg)
+
+<a name="444"/>
+
+26. 將系統環境(英文)改為中文
+
+![w11-38](https://user-images.githubusercontent.com/126373882/232280743-c1225c4f-d9aa-4a01-907f-2099de4e9289.jpg)
+
+![w11-39](https://user-images.githubusercontent.com/126373882/232280749-314da438-bd0e-4557-b434-4b83fb9022b7.jpg)
+
+![w11-41](https://user-images.githubusercontent.com/126373882/232280871-c0ff6067-1cc7-4cba-8d0f-29e28b29e53d.jpg)
+
+![w11-42](https://user-images.githubusercontent.com/126373882/232280873-b4de2c21-5f08-411b-833b-87c08fc05f23.jpg)
+
+![w11-43](https://user-images.githubusercontent.com/126373882/232280875-241914a1-da16-4a0b-afd6-5d77e8fde03c.jpg)
 
 
 Windows 11已經安裝完成，如下圖所示。
 
 ![w11-37](https://user-images.githubusercontent.com/126373882/232274036-04e5e918-1f6f-420a-891c-cf33825e9489.jpg)
-
-
-<div align="p5">
-     <img 
-      src="https://user-images.githubusercontent.com/126373882/227757908-faf9da8e-2e7f-41f5-ace3-42ca880f286b.jpg" 
-      width="50%" height="50%">
-    </div>
 
 
 
