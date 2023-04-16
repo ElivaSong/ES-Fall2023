@@ -7,6 +7,7 @@
 - [Windows 11 ISO檔下載](#222)
 - [VM安裝WIN11步驟](#333)
 - [將系統環境英文改為中文](#444)
+- [NAT](#555)
 
 <a name="111"/>
 
@@ -80,41 +81,45 @@
 
 ![w11-9](https://user-images.githubusercontent.com/126373882/232272239-5ab7d93e-78e7-46eb-b69a-2e5e247bbac2.jpg)
 
-11. 點選「Finish」，開始安裝虛擬機器。
+11. 選擇NAT:Used to share the host's IP address
+
+![w11-46](https://user-images.githubusercontent.com/126373882/232302465-d136f513-2c03-41c7-9e43-4d772c77c09b.jpg)
+
+12. 點選「Finish」，開始安裝虛擬機器。
 
 ![w11-10](https://user-images.githubusercontent.com/126373882/232272326-4d080ce1-f119-4b98-bf73-a00c44cfaa0f.png)
 
-12. 正在建立虛擬硬碟。
+13. 正在建立虛擬硬碟。
 
 ![w11-11](https://user-images.githubusercontent.com/126373882/227757899-ad443330-8d0b-47c6-a798-101bcf91e822.jpg)
 
-13. 按鍵盤的任一按鍵，開啟安裝程式。
+14. 按鍵盤的任一按鍵，開啟安裝程式。
 
 ![image](https://user-images.githubusercontent.com/126373882/226159411-c200bdf6-9ae4-41ae-80f9-292973a572be.png)
 
-14. 點選「下一步」，開始安裝Windows 11。(依個人需求選擇中文or英文)
+15. 點選「下一步」，開始安裝Windows 11。(依個人需求選擇中文or英文)
 
 ![w11-12](https://user-images.githubusercontent.com/126373882/232272764-ac960383-156b-4d0f-a020-e5caf630e75d.jpg)
    
 ![image](https://user-images.githubusercontent.com/126373882/232272551-361ba8a0-2448-4c87-8ee8-2a68b2ca1864.png)
 
-15. 沒有金鑰的話可先跳過。
+16. 沒有金鑰的話可先跳過。
 
 ![w11-13](https://user-images.githubusercontent.com/126373882/232273187-16a4ad1b-cf4e-47b3-a40d-c401f73a19df.jpg)
 
-16. 選W11 Pro → Next。
+17. 選W11 Pro → Next。
 
 ![w11-14](https://user-images.githubusercontent.com/126373882/232273325-468f24a4-dfb0-4ad6-86a7-b8eed32b3691.jpg)
 
-17. 勾選同意 → Next。
+18. 勾選同意 → Next。
 
 ![w11-15](https://user-images.githubusercontent.com/126373882/232273416-da9c22e5-afb8-44c7-b710-a40327757b9c.jpg)
 
-18. 選第一個 Upgrade:......
+19. 選第一個 Upgrade:......
 
 ![w11-16](https://user-images.githubusercontent.com/126373882/232273628-594592b1-1d49-4d23-838a-beb1d9bd98c0.jpg)
 
-19. 選New → Size：61440 → Apply → OK → Next
+20. 選New → Size：61440 → Apply → OK → Next
 
 ![w11-18](https://user-images.githubusercontent.com/126373882/232273818-0cb88c37-8e9e-4b6d-b866-226defc434a8.jpg)
 
@@ -122,11 +127,11 @@
 
 ![w11-20](https://user-images.githubusercontent.com/126373882/232279166-10cb13d9-edeb-4cd0-b9f3-114b9f3b34e2.jpg)
 
-20. 建立中
+21. 建立中
 
 ![w11-22](https://user-images.githubusercontent.com/126373882/232279264-7cfe7010-290b-487e-808f-2090b312d3e7.jpg)
 
-21. 選擇國家 → 鍵盤設定(也可先Skip後面再設定)。
+22. 選擇國家 → 鍵盤設定(也可先Skip後面再設定)。
 
 ![w11-23](https://user-images.githubusercontent.com/126373882/232279292-8158636f-8c6a-4040-9141-f51437a70fef.jpg)
 
@@ -136,21 +141,21 @@
 
 ![w11-26](https://user-images.githubusercontent.com/126373882/232279457-cb86403f-477c-47c8-bdf8-b9219667e5e5.jpg)
 
-22. 選擇設置：Set up for personal use (個人) / Set up for work or school (工作or學校)
+23. 選擇設置：Set up for personal use (個人) / Set up for work or school (工作or學校)
 
 ![w11-28](https://user-images.githubusercontent.com/126373882/232279606-dc4295ba-9c12-4423-85df-b82b485e60bc.jpg)
 
-23. 登入Microsoft帳號 / 密碼
+24. 登入Microsoft帳號 / 密碼
 
 ![w11-29-1](https://user-images.githubusercontent.com/126373882/232280179-cf6708a5-9102-42bc-916f-1ca27e74531e.jpg)
 
 ![w11-30-1](https://user-images.githubusercontent.com/126373882/232280189-9676168f-815e-4927-ba9c-6aba72d31f2b.jpg)
 
-24. 設定密碼
+25. 設定密碼
 
 ![w11-32](https://user-images.githubusercontent.com/126373882/232280070-39715ffd-7206-484a-8530-17fb211f2b76.jpg)
 
-25. Next → Next → Skip → Next
+26. Next → Next → Skip → Next
 
 ![w11-33](https://user-images.githubusercontent.com/126373882/232280287-d5b04af4-64c5-4a8f-94df-e536acef66bf.jpg)
 
@@ -162,7 +167,7 @@
 
 <a name="444"/>
 
-26. 將系統環境(英文)改為中文
+27. 將系統環境(英文)改為中文
 
 ![w11-38](https://user-images.githubusercontent.com/126373882/232280743-c1225c4f-d9aa-4a01-907f-2099de4e9289.jpg)
 
@@ -174,13 +179,17 @@
 
 ![w11-43](https://user-images.githubusercontent.com/126373882/232280875-241914a1-da16-4a0b-afd6-5d77e8fde03c.jpg)
 
-
 Windows 11已經安裝完成，如下圖所示。
 
 ![w11-37](https://user-images.githubusercontent.com/126373882/232274036-04e5e918-1f6f-420a-891c-cf33825e9489.jpg)
 
+<a name="555"/>
 
+### NAT
 
+![w11-45-1](https://user-images.githubusercontent.com/126373882/232303248-ec49e6d9-68a5-4d86-aa4b-9e4fb497259f.jpg)
+
+![w11-47-1](https://user-images.githubusercontent.com/126373882/232303296-725ce6bf-7dda-4906-8e03-147066423e4c.jpg)
 
 
 [TOP](#000)
