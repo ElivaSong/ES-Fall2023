@@ -15,7 +15,7 @@
 
 <a name="222"/>
 
-## Windows 11 ISO檔下載：
+### Windows 11 ISO檔下載：
 
 > Windows 11 ISO Downloads：https://www.microsoft.com/zh-tw/software-download/windows11
 
@@ -25,9 +25,12 @@
       width="60%" height="60%">
     </div>
 
+---
+
 <a name="333"/>
 
 ### Windows 11安裝步驟：
+
 1. 開啟VMware Workstation Player。
 
 ![image](https://user-images.githubusercontent.com/126373882/227761068-b34250e9-92b4-4c5b-84b5-bcaac9048244.png)
@@ -176,6 +179,8 @@
 Windows 11已經安裝完成，如下圖所示。
 
 ![w11-37](https://user-images.githubusercontent.com/126373882/232274036-04e5e918-1f6f-420a-891c-cf33825e9489.jpg)
+
+---
 
 <a name="555"/>
 
