@@ -1,23 +1,17 @@
-<a name="000"/>
+<a name="111"/>
 
 # 使用VMWare安裝Windows 11
 
+　　　在使用VMWare安裝Windows 11之前，我們需要有前置作業：
+   1. 安裝好VMWare  
+可參考我前面章節：https://github.com/ElivaSong/ES-Fall2023/blob/main/Virtualization/Lab1_week1_VMware.md
+   3. 下載W11的ISO檔
+
 ## 目錄
-- [我的電腦配置](#111)
 - [Windows 11 ISO檔下載](#222)
 - [VM安裝WIN11步驟](#333)
 - [將系統環境英文改為中文](#444)
 - [NAT](#555)
-
-<a name="111"/>
-
-### 我的電腦配置：
-
-<div align="p1">
-     <img 
-      src="https://user-images.githubusercontent.com/126373882/227756346-65945d41-c69f-4380-bdf7-77136d518d4c.jpg" 
-      width="75%" height="75%">
-    </div>
 
 <a name="222"/>
 
@@ -187,9 +181,11 @@ Windows 11已經安裝完成，如下圖所示。
 
 ### NAT
 
+> 尋找電腦的IP：cmd(開啟命令提示字元) → 輸入 ipconfig
+
 ![w11-45-1](https://user-images.githubusercontent.com/126373882/232303248-ec49e6d9-68a5-4d86-aa4b-9e4fb497259f.jpg)
 
 ![w11-47-1](https://user-images.githubusercontent.com/126373882/232303296-725ce6bf-7dda-4906-8e03-147066423e4c.jpg)
 
 
-[TOP](#000)
+[TOP](#111)
