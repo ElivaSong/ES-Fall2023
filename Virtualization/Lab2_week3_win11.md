@@ -55,52 +55,69 @@
 
 ![w11-3](https://user-images.githubusercontent.com/126373882/227756676-b41e418a-af97-4f9d-b681-89975de4ca77.jpg)
 
-4. 輸入自訂的虛擬機器名稱；Location為預設儲存路徑，若需變更請點選「Browse…」。
+5. 輸入自訂的虛擬機器名稱；Location為預設儲存路徑，若需變更請點選「Browse…」。
 
 ![w11-4](https://user-images.githubusercontent.com/126373882/227756702-ffce0fcd-ffc9-43b9-b125-49e3c4c2b66d.jpg)
 
-5. 使用預設的選項，輸入自訂的密碼，點選「Next」，啟用encrypted Trusted Platform Module（信賴平台模組，縮寫：TPM）。
+6. 使用預設的選項，輸入自訂的密碼，點選「Next」，啟用encrypted Trusted Platform Module（信賴平台模組，縮寫：TPM）。
 
 ![w11-5](https://user-images.githubusercontent.com/126373882/227756714-15b3792e-3aa4-4200-a940-349b1fdc75ce.jpg)
 
-6. 自訂虛擬硬碟的大小，選擇「Store virtual disk as a single files」，將虛擬硬碟儲存為單一檔案，點選「Next」。
+7. 自訂虛擬硬碟的大小，選擇「Store virtual disk as a single files」，將虛擬硬碟儲存為單一檔案，點選「Next」。
 
 ![w11-6](https://user-images.githubusercontent.com/126373882/227756738-a43b7c0a-8901-4872-8646-9e6b8429976a.jpg)
 
-7. 點選「Customize Hardware…」。
+8. 點選「Customize Hardware…」。
 
 ![w11-7](https://user-images.githubusercontent.com/126373882/227756746-5e2c8aa1-c672-404a-97ff-c161871bbab7.jpg)
 
-8. 在「Memory」的選項，調整記憶體至適當的大小〈建議為實體記憶體的1/3 - 1/2之間〉。
+9. 在「Memory」的選項，調整記憶體至適當的大小〈建議為實體記憶體的1/3 - 1/2之間〉。
 
-<div align="p4">
+![w11-8](https://user-images.githubusercontent.com/126373882/227756750-c61dc26d-80bb-4d2b-9de0-381eccbea734.jpg)
+
+10. 在「Processors」的選項，選擇CPU的核心數。→ Close
+
+![w11-9](https://user-images.githubusercontent.com/126373882/232272239-5ab7d93e-78e7-46eb-b69a-2e5e247bbac2.jpg)
+
+11. 點選「Finish」，開始安裝虛擬機器。
+
+![w11-10](https://user-images.githubusercontent.com/126373882/232272326-4d080ce1-f119-4b98-bf73-a00c44cfaa0f.png)
+
+12. 正在建立虛擬硬碟。
+
+![w11-11](https://user-images.githubusercontent.com/126373882/227757899-ad443330-8d0b-47c6-a798-101bcf91e822.jpg)
+
+13. 按鍵盤的任一按鍵，開啟安裝程式。
+
+![image](https://user-images.githubusercontent.com/126373882/226159411-c200bdf6-9ae4-41ae-80f9-292973a572be.png)
+
+14. 點選「下一步」，開始安裝Windows 11。(依個人需求選擇中文or英文)
+
+![w11-12](https://user-images.githubusercontent.com/126373882/232272764-ac960383-156b-4d0f-a020-e5caf630e75d.jpg)
+   
+![image](https://user-images.githubusercontent.com/126373882/232272551-361ba8a0-2448-4c87-8ee8-2a68b2ca1864.png)
+
+15. 沒有金鑰的話可先跳過。
+
+![w11-13](https://user-images.githubusercontent.com/126373882/232273187-16a4ad1b-cf4e-47b3-a40d-c401f73a19df.jpg)
+
+
+<div align="p5">
      <img 
-      src="https://user-images.githubusercontent.com/126373882/227756750-c61dc26d-80bb-4d2b-9de0-381eccbea734.jpg" 
+      src="https://user-images.githubusercontent.com/126373882/232273187-16a4ad1b-cf4e-47b3-a40d-c401f73a19df.jpg" 
+      width="50%" height="70%">
+    </div>
+
+
+Windows 11已經安裝完成，如下圖所示。
+<div align="p5">
+     <img 
+      src="https://user-images.githubusercontent.com/126373882/227757908-faf9da8e-2e7f-41f5-ace3-42ca880f286b.jpg" 
       width="50%" height="50%">
     </div>
 
-9. 在「Processors」的選項，選擇CPU的核心數。
-
-![w11-9](https://user-images.githubusercontent.com/126373882/227756761-38b4a6a3-386f-4b2e-a00a-b864881f8e04.jpg)
-
-10. 
-![w11-10](https://user-images.githubusercontent.com/126373882/227757883-9f9968f5-b27d-458b-a1be-402cb0cfe8e1.jpg)
-
-11. 
-![w11-11](https://user-images.githubusercontent.com/126373882/227757899-ad443330-8d0b-47c6-a798-101bcf91e822.jpg)
-
-12. 
-![w11-12](https://user-images.githubusercontent.com/126373882/227757908-faf9da8e-2e7f-41f5-ace3-42ca880f286b.jpg)
-
-13. 
-![w11-13](https://user-images.githubusercontent.com/126373882/227757918-2e970685-9867-4943-8deb-fa237d9e4407.jpg)
 
 
-
-
-
-
-![image](https://user-images.githubusercontent.com/126373882/226159411-c200bdf6-9ae4-41ae-80f9-292973a572be.png)
 
 
 [TOP](#000)
