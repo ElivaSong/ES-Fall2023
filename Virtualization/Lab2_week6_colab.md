@@ -35,7 +35,14 @@
 
 ![0326-6](https://user-images.githubusercontent.com/126373882/232424041-c346dcf4-88da-4d89-84ab-506c4155aa70.jpg)
 
+5. 接下來你可以新增一個資料夾，來存放你的Colab Data
 
+![0326-7](https://user-images.githubusercontent.com/126373882/232801374-300910fa-7ca3-4fd0-a5b9-c93f5ec0c2fd.jpg)
+
+6. 建立好你的資料夾後，就可以來新增一個你的Colab。  
+新增 → 更多 → 點選Google Colaboratory → 最上面的地方可以點一下重新命名成你要的檔案名稱 (紅框處)
+
+![0326-8](https://user-images.githubusercontent.com/126373882/232802523-6befeb33-dfbb-429f-a1d6-a63218b913af.jpg)
 
 
 
