@@ -39,6 +39,17 @@
 ![ub-4](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/895c1f4b-da9e-46a8-98a1-ff13ecd9c0ed)
 > Note：如果有問你是否要Configure Network, 建議選No Configure.
 
+5. 如何安裝Ubuntu的網路工具組 net-tools？
+
+打上 `sudo apt install net-tools`
+
+![ub-5](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/1b0d1a07-a08b-42d6-b7eb-adef0f5d2c27)
+
+6. 如何檢查 Ubuntu IP？
+
+![ub-7](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/7e0bd1d0-fedb-415b-a93d-beb3f4d3d5a2)
+
+![ub-6](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/8678701a-ab98-416e-9294-e3b9c03225bc)
 
 
 [TOP](#111)
