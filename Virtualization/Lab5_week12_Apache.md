@@ -10,7 +10,17 @@
 -----
 
 <a name="222"/>
+
 ### 什麼是Apache網頁伺服器(Web Server) ？
+
+![image](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/1b47e8a4-67f0-47a1-af29-c8d183816d17)
+
+　　Apache HTTP Server是一個免費和開放原始碼的網頁伺服器，是世界上使用最廣泛的 Web 伺服器（Web Server），通過互聯網提供網絡內容。Apache HTTP 服務器項目旨在為 UNIX 和 Windows NT 等操作系統開發和維護開源 HTTP 服務器。該項目旨在提供一個安全、高效、可擴展的服務器，提供 HTTP 服務 sync 與當前的網絡標準。
+  
+  　Apache的特點之一是其跨平台性，可以在大多數電腦操作系統上運行，包括Windows、Linux、Mac OS等。它以其穩定性、可靠性和可定制性而廣受用戶青睞，讓用戶充分體驗到開放源碼的優點。
+
+
+
 
 <a name="333"/>
 
