@@ -43,6 +43,7 @@ eval "$(pyenv virtualenv-init -)"
 
 <a name="222"/>
 1. 開啟你的Ubuntu → 桌面點擊右鍵 → 開啟Open in Terminal → 
+
 `python3 --version`
 
 ![image](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/d3e4273e-4f38-47eb-a78b-09fe18fcbb37)
