@@ -15,21 +15,21 @@
 ---
 
 ``` ## Install Python packages (About 10 minutes)
-ta2021@ubuntu:~$ python3 --version
+eliva@eliva:~$ python3 --version
 Python 3.8.2
 
-ta@ubuntu:~$ sudo apt-get update
-ta@ubuntu:~$ sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl python-dev
+eliva@eliva:~$ sudo apt-get update
+eliva@eliva:~$ sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl python-dev
 
-ta@ubuntu:~$ sudo apt-get install python3-pip
+eliva@eliva:~$ sudo apt-get install python3-pip
 
 ## --- install pyenv
-ta@ubuntu:~$ sudo apt install curl 
-[sudo] ta 的密碼： 
+eliva@eliva:~$ sudo apt install curl 
+[sudo] eliva 的密碼： 
 
-ta@ubuntu:~$ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
+eliva@eliva:~$ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
 
-ta@ubuntu:~$ gedit ~/.bashrc
+eliva@eliva:~$ gedit ~/.bashrc
 
 --- 將以下 4 行添加到 .bashrc 的底部
 
@@ -42,9 +42,12 @@ eval "$(pyenv virtualenv-init -)"
 ```
 
 <a name="222"/>
-1. 開啟你的Ubuntu → 桌面點擊右鍵 → 開啟Open in Terminal → 
+1. 開啟你的Ubuntu → 桌面點擊右鍵 → 開啟Open in Terminal
+輸入：
 
 `python3 --version`
+
+`sudo apt-get update`
 
 ![image](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/d3e4273e-4f38-47eb-a78b-09fe18fcbb37)
 
