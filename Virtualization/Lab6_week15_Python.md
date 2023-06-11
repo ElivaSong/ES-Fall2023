@@ -9,9 +9,39 @@
 - **正在測試學習的.或者猜想著這個 package 到底是有沒有用到 (不曾記得安裝過, 但實際上是因為和另一個 package 相依而自動安裝進來了).**
 - **避免 package 和 python 本身 (以及其他 package) 不相容的問題. 同時也可以避免這些多出來 package 引發不相容的問題.**
 
-1. 安裝一個方便開發的 Python 虛擬環境:使用 Pyenv 管理 Python 版本
+
+
+[1. 安裝一個方便開發的 Python 虛擬環境:使用 Pyenv 管理 Python 版本](#222)
 2. 
 
+
+<a name="222"/>
+
+`## Install Python packages (About 10 minutes)
+ta2021@ubuntu:~$ python3 --version
+Python 3.8.2
+
+ta@ubuntu:~$ sudo apt-get update
+ta@ubuntu:~$ sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl python-dev
+
+ta@ubuntu:~$ sudo apt-get install python3-pip
+
+## --- install pyenv
+ta@ubuntu:~$ sudo apt install curl 
+[sudo] ta 的密碼： 
+
+ta@ubuntu:~$ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
+
+ta@ubuntu:~$ gedit ~/.bashrc
+
+--- 將以下 4 行添加到 .bashrc 的底部
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv virtualenv-init -)"
+
+--- 完成後, 記得儲存後, 關閉終端並再次打開一個新的Terminal`
 
 ![image](https://github.com/ElivaSong/ES-Fall2023/assets/126373882/d3e4273e-4f38-47eb-a78b-09fe18fcbb37)
 
@@ -20,4 +50,5 @@
 
 
 
-TOP(111)
+
+[TOP](#111)
